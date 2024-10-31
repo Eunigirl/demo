@@ -1,7 +1,7 @@
 # biggest heading
 ## smaller 
 
-![demo text](add the link here)   this is for adding images
+![demo text](https://github.com/Eunigirl/demo/blob/main/save%20trust.jpg) this is for adding images
 
 hgidfhuht eunice\
 
